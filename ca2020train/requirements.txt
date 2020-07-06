@@ -1,0 +1,8 @@
+certifi==2020.4.5.2
+Django==2.0.5
+mysqlclient==1.4.6
+pytz==2020.1
+wincertstore==0.2
+filelock==3.0.12
+six==1.15.0
+
